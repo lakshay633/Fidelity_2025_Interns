@@ -1,6 +1,4 @@
 class Customer:
-    name=""
-    balance=0
     def __init__(self, name, bal):
         self.name=name
         self.balance=bal
