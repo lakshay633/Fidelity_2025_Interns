@@ -1,0 +1,9 @@
+Django==5.1.6
+django-rest-swagger==2.2.0
+djangorestframework==3.15.2
+drf-yasg==1.21.8
+
+# Snowflake-related packages
+snowflake-connector-python==3.13.2
+django-snowflake==5.1
+dbt-snowflake==1.9.1
